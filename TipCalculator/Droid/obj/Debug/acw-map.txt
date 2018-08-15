@@ -1,0 +1,3 @@
+TipCalculator.Droid.MainActivity, TipCalculator.Droid;md544a8d65d449db72f040acc0f4b180cde.MainActivity
+TipCalculator.Droid.MainActivity;md544a8d65d449db72f040acc0f4b180cde.MainActivity
+tipcalculator.droid.MainActivity;md544a8d65d449db72f040acc0f4b180cde.MainActivity

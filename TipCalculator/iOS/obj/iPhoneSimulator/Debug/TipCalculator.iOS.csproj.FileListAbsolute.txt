@@ -1,0 +1,14 @@
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/bin/iPhoneSimulator/Debug/TipCalculator.iOS.exe
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/bin/iPhoneSimulator/Debug/TipCalculator.iOS.pdb
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/bin/iPhoneSimulator/Debug/TipCalculator.dll
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/bin/iPhoneSimulator/Debug/TipCalculator.pdb
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.csprojResolveAssemblyReference.cache
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.csproj.CoreCompileInputs.cache
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.exe
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/iOS/obj/iPhoneSimulator/Debug/TipCalculator.iOS.pdb

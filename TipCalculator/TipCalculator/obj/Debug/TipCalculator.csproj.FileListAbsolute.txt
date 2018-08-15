@@ -1,0 +1,5 @@
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/TipCalculator/bin/Debug/TipCalculator.dll
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/TipCalculator/bin/Debug/TipCalculator.pdb
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/TipCalculator/obj/Debug/TipCalculator.csproj.CoreCompileInputs.cache
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/TipCalculator/obj/Debug/TipCalculator.dll
+/Users/jorgeserna/Documents/XAMARIN/TipCalculator/TipCalculator/obj/Debug/TipCalculator.pdb
